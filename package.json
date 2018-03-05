@@ -1,6 +1,6 @@
 {
     "name": "push.js",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description":
         "A compact, cross-browser solution for the Javascript Notifications API",
     "main": "bin/push.min.js",
@@ -15,7 +15,7 @@
     "files": ["bin", "*.md", "*.png"],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Nickersoft/push.js"
+        "url": "https://github.com/3rand/push.js"
     },
     "author": "Tyler Nickerson",
     "license": "MIT",
